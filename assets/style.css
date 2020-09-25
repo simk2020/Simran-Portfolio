@@ -1,11 +1,14 @@
 
+
 body {
-    background-color: rgb(181, 182, 171);
+    background-color: rgb(206, 236, 238);
     background-image: url ("C:\Users\uni\Desktop\BOOTCAMP\simk2020.Homework2\assets\images\4.jpg") ;
+    font-family: font-size: 20px;
 }
 
  .container {
-background-color: rgb(168, 218, 241) ;
+background-color: rgb(169, 231, 236) ;
+background-image: url ("assets\images\1.jpg");
 height: auto;
 margin-top: 50px;
 margin-bottom: 50px;
@@ -20,29 +23,27 @@ footer {
     font-size: 20px;
 }
 
-/* #navbarNav {
-    background-color: rgb(169, 222, 243);
-    margin:auto;
-}
-.navbar-brand {
-    background-color: rgb(169, 222, 243);
-    padding: 0%;
-    margin: 25px;
-
-    .collapse  {
-        margin :2px
-
-    }
-
-}
-.bg-light {
-    background-color: green;
-
-
-    }
-    
-.col-md-5 {
+.nav-item {
+    font-size: 22px;
     float: left;
+}
+
+.navbar-brand {
+    background-color:rgb(127, 230, 238);
+    padding: 1.5%;
+    margin: 5px; 
+}
+
+#navbarNav {
+    background-color: rgb(127, 230, 238);
+    padding: 1%;
+    margin: 5px; 
+    float: left;
+}
+
+.Linkedin {
+    align-self: center;
+    size;100%;
 }
 
 
