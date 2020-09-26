@@ -13,6 +13,6 @@ Here's the Links >>
 
 Spanshot of what my wesbite looks like >>
 
-![demonstration](./assets/S1.png)
+![demonstration](.\assets\images\S1.png)
 ![demonstration](./assets/M2.png)
 ![demonstration](./assets/L3.png)
