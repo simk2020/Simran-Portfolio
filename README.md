@@ -4,7 +4,7 @@ Simran Sehdev Portfolio
 
 It is a website which contains information about me alongwith the portfolio's that I have completed. 
 
-Here's the Links >> 
+Here are the Links >> 
 
 * The URLs of the deployed application : https://simk2020.github.io/simk2020.Homework2/
 
