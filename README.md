@@ -13,19 +13,7 @@ Here's the Links >>
 
 Spanshot of what my wesbite looks like >>
 
-
-
-* Use an HTML validation service to ensure that each page has valid HTML.
-
-### Minimum Requirements
-
-* Functional, deployed application
-
-* GitHub repository with README describing the project
-
-* Navbar must be consistent on each page.
-
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+.
 
 * All links must work.
 
