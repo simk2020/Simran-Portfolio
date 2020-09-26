@@ -35,8 +35,7 @@ padding : 50px
 #navbarNav {
     background-color: rgb(236, 217, 247);
     padding: .50%;
-    
-    /* margin: 5px;  */
+
 }
 
 footer {
@@ -46,18 +45,24 @@ footer {
     text-align: center;
     font-size: 16px;
     color: black;
+    /* sticky footer property added below */
     padding-top: 60px; 
-}
-
-.Linkedin {
-    align-self: center;
-    size:10%;
     
 }
 
+.card {
+    align-items : center !important;
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.cardbody{
+    align-content: left;
+
+}
 .btn {
     background-color: rgb(76, 31, 104);
-   
+}
 h1 {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
