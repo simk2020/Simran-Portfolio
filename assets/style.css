@@ -1,20 +1,17 @@
 
 
 body {
-    background-color: rgb(236, 217, 247);
-    background-image: url("images/1.jpg");
+    background-color: rgb(231, 210, 243);
+  
     background-size: cover;
     background-repeat: no-repeat;
     font-family: font-size: 20px;
     color: white;
 }
-body {
-    
-    
-}
+
 
  .container {
-background-color: rgb(106, 45, 141) ;
+background-color: rgb(139, 115, 69) ;
 background-image: url ("assets\images\1.jpg");
 height: auto;
 margin-top: 50px;
@@ -22,7 +19,12 @@ margin-bottom: 50px;
 padding : 50px
  }
 
+ .col-md {
+     margin: 10rem, 5rem;
+   
+ }
 
+/* 
 .nav-item {
     font-size: 22px;
     margin-left: 20px;
@@ -30,7 +32,7 @@ padding : 50px
 }
 
 .navbar-brand {
-    background-color:rgb(236, 217, 247);
+    background-color:red;
     font-size: 22px;
     font-weight: 777;
     padding: 1% 2%;
@@ -38,37 +40,16 @@ padding : 50px
     margin-left: 2px;
   }
 
+   .navbarcolor {
+      background-color: red;
+  } 
+
 #navbarNav {
     background-color: rgb(236, 217, 247);
-    padding: .50%;
+    padding: .50%; */
 
 }
 
-footer {
-    padding: 30px;
-    clear: both; 
-    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
-    text-align: center;
-    font-size: 16px;
-    color: black;
-    /* sticky footer property added below */
-    padding-top: 60px; 
-    
-}
-
-.card {
-    align-items : center !important;
-    width: 50px !important;
-    height: 50px !important;
-}
-
-.cardbody{
-    align-content: left;
-
-}
-.btn {
-    background-color: rgb(76, 31, 104);
-}
 h1 {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -79,4 +60,58 @@ h2 {
     font-size: 100% ;
     font-style: italic;
 
+}
+footer {
+    padding: 30px;
+    clear: both; 
+    background-color: red;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    /* sticky footer property added below */
+    padding-top: 60px; 
+    
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa-linkedin-square {
+    background: #2867B2;
+    color: white;
+  }
+  .fa-github-square {
+    background: black;
+    color: white;
+  }
+6:57
+.fa-address-book-o{
+    background: red;
+    color: white;
+  }
+  .fa-git-square{
+    background: black;
+    color: white;
+  }
+}
+
+.card {
+    color:black;
+    
+}
+
+/* .thiscard {
+    width :  px;
+    height : 25 px; */
+
+}
+
+.btn {
+    background-color: rgb(76, 31, 104);
 }
