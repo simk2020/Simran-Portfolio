@@ -1,17 +1,15 @@
 
 
 body {
-    background-color: rgb(231, 210, 243);
-  
+    background-color: rgb(202, 215, 218);
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: font-size: 20px;
     color: white;
 }
 
 
  .container {
-background-color: rgb(139, 115, 69) ;
+background-color:  rgb(6, 110, 136);
 background-image: url ("assets\images\1.jpg");
 height: auto;
 margin-top: 50px;
@@ -24,43 +22,27 @@ padding : 50px
    
  }
 
-/* 
-.nav-item {
-    font-size: 22px;
-    margin-left: 20px;
-    margin-right: 100px;
-}
-
-.navbar-brand {
-    background-color:red;
-    font-size: 22px;
-    font-weight: 777;
-    padding: 1% 2%;
+ .navbar-brand {
+    font-size: 20px;
+    padding: .30%;
     margin: 5px;
     margin-left: 2px;
-  }
+ }
 
-   .navbarcolor {
-      background-color: red;
-  } 
+ .navbarcolor {
+     color: white;
+ }
 
 #navbarNav {
-    background-color: rgb(236, 217, 247);
-    padding: .50%; */
+    
+    font-size: 20px;
+    padding: .01%;
+    margin: 5px;
+    margin-left: 2px;
+    color:white;
 
 }
 
-h1 {
-    text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-h2 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 100% ;
-    font-style: italic;
-
-}
 footer {
     padding: 30px;
     clear: both; 
@@ -90,7 +72,7 @@ footer {
     background: black;
     color: white;
   }
-6:57
+
 .fa-address-book-o{
     background: red;
     color: white;
@@ -99,7 +81,6 @@ footer {
     background: black;
     color: white;
   }
-}
 
 .card {
     color:black;
