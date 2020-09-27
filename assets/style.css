@@ -2,9 +2,15 @@
 
 body {
     background-color: rgb(236, 217, 247);
-    background-image: url ("C:\Users\uni\Desktop\BOOTCAMP\simk2020.Homework2\assets\images\4.jpg") ;
+    background-image: url("images/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     font-family: font-size: 20px;
     color: white;
+}
+body {
+    
+    
 }
 
  .container {
