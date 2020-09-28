@@ -1,6 +1,6 @@
 
 # Simran Sehdev Portfolio
-t is a website which contains information about me alongwith the portfolio's that I have completed. 
+It is a website containing information about me as well as the portfolio's that I have completed or working on. 
 
 # Here are the Links >> 
 
